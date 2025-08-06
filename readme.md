@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 		<img src="good-times.svg" width="400px">
-		<p>Hi, I'm a full stack engineer who recently relocated to Dublin.</p>
+		<p>Hi, I'm a full stack engineer who recently relocated to Dublin and is looking for work.</p>
 		</br>
 		<p>Connect with me if you'd like to chat about:</p>
 		<p>Reliability Engineering, Cloud Inference, Distributed Compute, or Deep Learning!</p>
